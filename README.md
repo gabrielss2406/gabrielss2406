@@ -4,8 +4,8 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Engenharia de Software** no <a href="link da sua faculdade">INATEL</a>.
-- 💼 &nbsp; Trabalhando como **Estagiário no NMAA** no <a href="LINK DA EMPRESA">INATEL</a>
+- 🎓 &nbsp; Estudando **Engenharia de Software** no INATEL.
+- 💼 &nbsp; Trabalhando como **Estagiário no NMAA** no INATEL.
 - 🌱 &nbsp; Sempre aprendendo mais sobre **tudo**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
