@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Engenharia de Software** no INATEL.
-- 💼 &nbsp; Atualmente buscando novas oportunidades.
+- 💼 &nbsp; Atualmente desenvolvedor na empresa **Mulher em Forma**.
 - 🌱 &nbsp; Sempre aprendendo mais sobre **tudo**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
